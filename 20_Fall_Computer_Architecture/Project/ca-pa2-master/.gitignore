@@ -1,0 +1,6 @@
+*.o
+pa2
+CMakeLists.txt
+Makefile
+pa2-*
+README.md
