@@ -1,0 +1,8 @@
+*~
+*.o
+*.swp
+pa1
+README.md
+pa1-*
+Makefile
+CMakeLists.txt

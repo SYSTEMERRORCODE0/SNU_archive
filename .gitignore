@@ -1,0 +1,13 @@
+.idea
+out
+data
+*.iml
+*.class
+META-INF
+sample_input.txt
+sample_output.txt
+testcase
+Sampledata
+testinput
+.DS_Store
+cmake-build-debug
